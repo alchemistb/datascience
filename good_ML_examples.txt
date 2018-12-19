@@ -1,0 +1,5 @@
+ The following sites are excellent Machine Learning concets and examples with real world data
+
+ https://datascienceplus.com/machine-learning-for-diabetes-with-python/
+
+ https://www.kaggle.com/ptynecki/pima-indians-diabetes-prediction-with-lr-84
