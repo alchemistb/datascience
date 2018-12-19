@@ -3,3 +3,5 @@
  https://datascienceplus.com/machine-learning-for-diabetes-with-python/
 
  https://www.kaggle.com/ptynecki/pima-indians-diabetes-prediction-with-lr-84
+
+ https://github.com/gboeing/data-visualization/tree/master/census-rents-2014
