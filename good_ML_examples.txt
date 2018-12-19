@@ -1,4 +1,4 @@
- The following sites are excellent Machine Learning concets and examples with real world data
+ The following sites are excellent Machine Learning concepts and examples with real world data
 
  https://datascienceplus.com/machine-learning-for-diabetes-with-python/
 
