@@ -5,3 +5,6 @@
  https://www.kaggle.com/ptynecki/pima-indians-diabetes-prediction-with-lr-84
 
  https://github.com/gboeing/data-visualization/tree/master/census-rents-2014
+
+# KnoxData: Machine Learning for Developers: Introduction to Python's Scikit-Learn
+https://www.youtube.com/watch?v=9qt2wfQ2R3U
