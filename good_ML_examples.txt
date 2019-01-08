@@ -8,3 +8,6 @@
 
 # KnoxData: Machine Learning for Developers: Introduction to Python's Scikit-Learn
 https://www.youtube.com/watch?v=9qt2wfQ2R3U
+
+# Scikit-learn algorithm Cheat Sheet
+https://1.bp.blogspot.com/-ME24ePzpzIM/UQLWTwurfXI/AAAAAAAAANw/W3EETIroA80/s1600/drop_shadows_background.png
