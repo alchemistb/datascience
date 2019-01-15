@@ -14,3 +14,6 @@ https://1.bp.blogspot.com/-ME24ePzpzIM/UQLWTwurfXI/AAAAAAAAANw/W3EETIroA80/s1600
 
 # Machine Learning and Security: Protecting Systems with Data and Algorithms - Python Code @GitHub
 https://github.com/oreilly-mlsec/book-resources
+
+# Applied ML_Python_UofMichigan_Coursera_Github Content
+https://github.com/Starignus/AppliedML_Python_Coursera
