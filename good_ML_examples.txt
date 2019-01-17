@@ -20,3 +20,6 @@ https://github.com/Starignus/AppliedML_Python_Coursera
 
 # Applied ML_Python Course Assignments Answers
 https://necromuralist.github.io/data_science/
+
+# Another good Python/ML source of tutorials and examples
+https://github.com/gautam1858/python-awesome
