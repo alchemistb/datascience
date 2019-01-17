@@ -17,3 +17,6 @@ https://github.com/oreilly-mlsec/book-resources
 
 # Applied ML_Python_UofMichigan_Coursera_Github Content
 https://github.com/Starignus/AppliedML_Python_Coursera
+
+# Applied ML_Python Course Assignments Answers
+https://necromuralist.github.io/data_science/
