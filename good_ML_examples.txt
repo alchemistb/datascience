@@ -23,3 +23,7 @@ https://necromuralist.github.io/data_science/
 
 # Another good Python/ML source of tutorials and examples
 https://github.com/gautam1858/python-awesome
+
+# This script is used to scrap images from the Internet to classify 5 common noodle "mee" dishes in Singapore. Wanton Mee, Bak Chor Mee, Lor Mee, Prawn Mee and Mee Siam.
+
+https://github.com/DtCarrot/sg-food-ml
