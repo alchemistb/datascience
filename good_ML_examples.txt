@@ -27,3 +27,6 @@ https://github.com/gautam1858/python-awesome
 # This script is used to scrap images from the Internet to classify 5 common noodle "mee" dishes in Singapore. Wanton Mee, Bak Chor Mee, Lor Mee, Prawn Mee and Mee Siam.
 
 https://github.com/DtCarrot/sg-food-ml
+
+# fit-transform-scikit-learn-estimator
+https://www.bogotobogo.com/python/scikit-learn/images/scikit-data-processing1-missing-data/fit-transform-scikit-learn-estimator.png
